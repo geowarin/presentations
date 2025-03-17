@@ -5,7 +5,7 @@ drawings:
   persist: false
 
 layout: cover
-background: public/deno/snow_den.png
+background: deno/snow_den.png
 
 transition: slide-left
 defaults:
